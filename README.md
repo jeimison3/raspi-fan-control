@@ -1,4 +1,4 @@
-## Ciração do serviço
+## Criação do serviço
 ```shell
 sudo nano /etc/systemd/system/fan.service
 ```
